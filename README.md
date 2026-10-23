@@ -1,2 +1,2 @@
 # print-hello-
- this is my code on git hub 
+ this is my first python code on git hub 
